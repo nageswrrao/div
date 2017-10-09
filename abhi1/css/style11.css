@@ -1,0 +1,26 @@
+.pranee{
+
+        
+        width:600px;
+		height:200px;
+		background-color:lavender;
+		border: 8px solid black;
+	    margin-left:100px;
+		}
+		
+		
+		.one{
+			 width:200px;
+		 height:200px;
+		 float:left;
+		 
+		 background-color:#76D7C4;
+		}
+		
+		.two{
+			 width:400px;
+		 height:200px;
+		 float:right;
+		 
+		 background-color:#FF5733;
+		}

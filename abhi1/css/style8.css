@@ -1,0 +1,44 @@
+.abc{
+
+        
+        width:700px;
+		height:100px;
+		background-color:lavender;
+		border: 6px solid black;
+	    margin-left:100px;
+		}
+		
+		
+		.one{
+			 width:150px;
+		 height:100px;
+		 float:left;
+		 
+		 background-color:red;
+		}
+		
+		.two{
+			 width:150px;
+		 height:100px;
+		 float:left;
+		 margin-left:32px;
+		 background-color:red;
+		}
+		
+		.three{
+			 width:150px;
+		 height:100px;
+		 float:left;
+		  margin-left:35px;
+		
+		 background-color:red;
+		}
+		
+		.four{
+			 width:150px;
+		 height:100px;
+		 float:left;
+		 background-color:red;
+		  margin-left:33px;
+		
+		}

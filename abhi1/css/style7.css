@@ -1,0 +1,32 @@
+
+
+.abcd{
+
+        width:500px;
+		height:200px;
+		
+		border: 1px solid black;
+	    margin-left:150px;
+		}
+ 
+ .one{
+ 
+  float: left;
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+	background-color:green;
+	
+	}
+	.two{
+ 
+  float: left;
+    width: 75px;
+    height: 75px;
+    margin-left: 50px;
+	background-color:green;
+	
+	}
+	p{
+		color:powderblue;
+	}

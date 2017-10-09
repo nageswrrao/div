@@ -1,0 +1,20 @@
+.abc{
+
+        width:400px;
+		height:200px;
+		background-color:lavender;
+		border: 1px solid black;
+	    margin-left:150px;
+		margin-top:150px;
+		}
+ 
+ .def{
+ 
+  float: left;
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+	background-color:yellow;
+	
+	}
+	

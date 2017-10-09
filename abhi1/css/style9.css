@@ -1,0 +1,57 @@
+.pranee{
+
+        
+        width:600px;
+		height:50px;
+		
+		border: 1px solid black;
+	    margin-left:50px;
+		  margin-top:50px;
+		}
+		
+		
+		.one{
+			 width:100px;
+		 height:50px;
+		 float:left;
+		 
+		 background-color:red;
+		}
+		
+		.two{
+			 width:100px;
+		 height:50px;
+		 float:left;
+		 
+		 background-color:yellow;
+		}
+		.three{
+			 width:100px;
+		 height:50px;
+		 float:left;
+		 
+		 background-color:green;
+		}
+		.four{
+			 width:100px;
+		 height:50px;
+		 float:left;
+		 
+		 background-color:lavender;
+		}
+		.five{
+			 width:100px;
+		 height:50px;
+		 float:left;
+		 
+		 background-color:green;
+		}
+		
+		
+		.six{
+			 width:100px;
+		 height:50px;
+		 float:left;
+		 
+		 background-color:yellow;
+		}
